@@ -1,0 +1,11 @@
+0.  The longest word in the dictionary
+1.  Return resource usage statistics
+2.  16 
+3.  We can use their copies several times for determining loading, checking, sizing and unloading times
+4.  fgets iterates throu all characters till the end of file. We are saving each caharacter in the for loop to the caharacter array and saving as a word if its lenght less that 45, and it's not containing any digits. The end of each word we are determening by "\0".  
+5.  It requares an extra iterations for determining digits in the words and max lenght of word.
+6.  In this case we can't change function names.
+7.  I've tried both an hash function and a trie.
+8.  TODO
+9.  TODO
+10. TODO

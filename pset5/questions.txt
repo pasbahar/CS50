@@ -1,0 +1,19 @@
+0.  Bmp: 1,2, 4, 16, 256 or 24 bit (16 million); JPEG: 24 bit; PNG: usually 24 bit, can be 48 bit; GIF: 256
+1.  GIF
+2.  Lossy compression algorithms preserve a representation of the original uncompressed image that may appear to be a perfect copy, but it is not a perfect copy. Often lossy compression is able to achieve smaller file sizes than lossless compression.
+3.  JPEG
+4.  The system modifies the filename's first character in the file's directory entry to signal that the file has been deleted and moves all of the file's FAT clusters to the hard drive's list of free clusters/
+5.  By overwriting
+6.  stdint.h is a header file in the C standard library introduced in the C99 standard library section 7.18 to allow programmers to write more portable code by providing a set of typedefs that specify exact-width integer types, together with the defined minimum and maximum allowable values for each type, using macros
+7.  Helps to define data types
+8.  Byte -1; DWord - 4; Word -2; Long -4
+9.  4D42h
+10. bfsize - The size, in bytes, of the bitmap file. bisize - The size, in bytes, of the bitmap file.
+11. If biHeight is negative, indicating a top-down DIB, biCompression must be either BI_RGB or BI_BITFIELDS. Top-down DIBs cannot be compressed.
+12. biBitCount
+13. if thre is no such file as an argumen of fopen, then fopen returns Null, which means an error
+14. The function fread() reads nmemb elements of data, each size bytes long, from the stream pointed to by stream, storing them at the location given by ptr. Since there will be only 1 BITMAPINFOHEADER inside a bmp, the fread should only read 1 set of sizeof(BITMAPFILEHEADER).
+15. 1
+16. The  fseek()  function sets the file position indicator for the stream pointer to by stream. 
+17. Seek_cur - is the current position of the pointer 
+18. Mila Banana
